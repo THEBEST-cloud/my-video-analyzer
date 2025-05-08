@@ -117,4 +117,4 @@ if __name__ == '__main__':
     video_path = base_dir / 'test_videos' / '2.mp4'
     output_path = base_dir / 'test_outputs'
     extracter = VideoProcessor(video_path, output_path)
-    extracter.extract_keyframes()
+    extracter.extract_keyframes()1
