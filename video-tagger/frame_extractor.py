@@ -118,4 +118,3 @@ if __name__ == '__main__':
     output_path = base_dir / 'test_outputs'
     extracter = VideoProcessor(video_path, output_path)
     extracter.extract_keyframes()
-a
